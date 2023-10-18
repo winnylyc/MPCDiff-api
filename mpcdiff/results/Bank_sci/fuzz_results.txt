@@ -1,0 +1,24 @@
+8, 	0.020844, 4
+label from plaintext: 0, label from mpc: 1
+9, 	0.022795, 5
+label from plaintext: 0, label from mpc: 1
+10, 	0.049816, 26
+label from plaintext: 0, label from mpc: 1
+11, 	0.060176, 33
+label from plaintext: 0, label from mpc: 1
+12, 	0.165352, 112
+label from plaintext: 0, label from mpc: 1
+13, 	0.186926, 128
+label from plaintext: 0, label from mpc: 1
+14, 	0.210008, 142
+label from plaintext: 0, label from mpc: 1
+15, 	0.249067, 171
+label from plaintext: 0, label from mpc: 1
+16, 	0.300120, 209
+label from plaintext: 0, label from mpc: 1
+17, 	0.399578, 283
+label from plaintext: 0, label from mpc: 1
+18, 	0.408839, 289
+label from plaintext: 0, label from mpc: 1
+19, 	0.432364, 306
+label from plaintext: 0, label from mpc: 1
